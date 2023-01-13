@@ -12,4 +12,5 @@ echo "for chnage 2 file it exapmle"
 echo "Value of a"
 read a
 echo "Value of b"
-read b
+
+
